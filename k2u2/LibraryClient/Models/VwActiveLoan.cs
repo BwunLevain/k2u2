@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace k2u2.Models;
+namespace k2u2.LibraryClient.Models;
 
 public partial class VwActiveLoan
 {
