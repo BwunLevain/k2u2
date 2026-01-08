@@ -17,7 +17,7 @@ The **k2u2 Library System** is a technical solution designed to manage the core 
 
 The database schema is designed with normalization in mind to prevent data redundancy and ensure logical relationships.
 
-<img width="4512" height="1842" alt="libraryerd" src="https://github.com/user-attachments/assets/7a15a7b3-5660-4ac6-9fc4-a4d2568dda3c" />
+<img width="2205" height="1842" alt="libraryerd" src="https://github.com/user-attachments/assets/a79d3b3a-4535-47d1-9c89-e6658e53e68a" />
 
 **Key Relationships:**
 
